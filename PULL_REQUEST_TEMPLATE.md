@@ -12,7 +12,7 @@ What this PR should do:
 - Reference the issue this fixes or closes.
 - Highlight the changes in this PR.
 - Set at least one Reviewer.
-- Set yourself as an Assignee. This will make it easier tracking in Projects.
+- Set yourself as an Assignee. This will make it easier for tracking in Projects.
 - Delete this comment stub.
 
 Extra reading:
