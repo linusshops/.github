@@ -1,4 +1,6 @@
-Fixes # .
+Addresses issue number(s): 
+
+- #
 
 Highlight of changes in this PR:
 
@@ -18,5 +20,10 @@ What this PR should do:
 Extra reading:
 
 - https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests
+
+Auto-closing issues:
+
+Ideally GitHub should not auto-close issues that are referenced in a pull request without using designated keywords.
 
 -->
